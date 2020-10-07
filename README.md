@@ -1,2 +1,2 @@
-# HTML5-och-CSS-kurs
+# HTML5 och CSS kurs
 EC
