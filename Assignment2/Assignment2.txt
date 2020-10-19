@@ -1,0 +1,3 @@
+Webbplats: En samling webbsidor.
+Webbsida: Ett HTML dokument i samlingen i en webbplats.
+Hemsida: Ett begrepp som inte används längre.
