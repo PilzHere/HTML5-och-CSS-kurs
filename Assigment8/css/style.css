@@ -1,0 +1,52 @@
+@font-face {
+	font-family: "MyWebFont";
+	src: url("fonts/Consolas.woff2") format("woff2"),
+		url("fonts/Consolas.woff") format("woff"),
+		url("fonts/Consolas.ttf") format("truetype");
+}
+
+/*html { }*/
+
+/*body {
+	font-family: 'MyWebFont', monospace;
+	font-size: 16px;
+	color: #000000;
+	background-color: #f5f5f0;
+	margin-left: 10%; 
+	margin-right: 10%; 
+	padding: 0;
+}*/
+
+section {
+	width: 800px;
+	height: 600px;
+	margin: 40px;
+	border: 1px solid black;
+}
+
+#box1 {
+	width: 150px;
+	height: 150px;
+	border: 1px solid red;
+	position: fixed;
+	bottom: 0;
+	background: blue;
+}
+
+#box2 {
+	width: 120px;
+	height: 120px;
+	border: 1px solid blue;
+	position: relative;
+	background: #ff00ff;
+}
+
+#footer {
+	position: sticky;
+	bottom: 0;
+	position: fixed;
+	border: 1px solid black;
+	background: red;
+	width: 200px;
+	height: 16px;
+}
